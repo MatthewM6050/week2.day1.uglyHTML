@@ -1,0 +1,77 @@
+body
+{
+    text-align: center;
+    background: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+
+
+header
+{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+h3
+{
+    font-size: 26px;
+    font-family: 'Unica One', cursive;
+    margin: auto;
+}
+
+.top
+{
+    width: 540px;
+    text-align: center;
+    margin: auto;
+}
+
+.watch_container
+{
+    clear: left;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FDEFA6;
+    border-radius: 13px;
+    background: #1A1818;
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.watch_container img
+{
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img
+{
+    float:left;
+}
+
+
+.text
+{
+    font-family: 'Dosis', cursive;
+    text-align: left;
+}
+
+h2
+{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 26px;
+    font-family: "Unica One", cursive;
+}
+
+footer
+{
+    font-size: 30px;
+    font-family: "Dosis", cursive;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
